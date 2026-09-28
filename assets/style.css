@@ -151,4 +151,4 @@ a.card:hover h3 { color: var(--steel); }
 
 /* Page-view counter (hits.sh) */
 .footer-meta { display: inline-flex; align-items: center; flex-wrap: wrap; gap: 12px; }
-.counter { height: 20px; width: auto; display: inline-block; }
+.counter { height: 26px; width: auto; display: inline-block; }
