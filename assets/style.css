@@ -148,3 +148,7 @@ a.card:hover h3 { color: var(--steel); }
   section { padding: 40px 0; }
   .site-nav a { padding: 5px 10px; font-size: .9rem; }
 }
+
+/* Page-view counter (hits.sh) */
+.footer-meta { display: inline-flex; align-items: center; flex-wrap: wrap; gap: 12px; }
+.counter { height: 20px; width: auto; display: inline-block; }
